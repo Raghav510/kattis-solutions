@@ -3,7 +3,7 @@ A collection of my solved Kattis problems in Python.
 ## Problems & Solutions
 | Problem                          | Solved in    | Link                  |
 |----------------------------------|--------------|-----------------------|
-| [Barcelona](Barcelona)  | Python3            | [Link]() |
+| [https://open.kattis.com/problems/barcelona](Barcelona)  | Python3            | [Link]() |
 
 
 
